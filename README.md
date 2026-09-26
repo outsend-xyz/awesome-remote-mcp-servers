@@ -908,7 +908,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Check a US phone's line type, carrier and TCPA litigator status before dialing; tool calls need a prepaid API key.
 - [OutSend](https://outsend.xyz) `https://outsend.xyz/mcp`
   [![OutSend MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/xyz.outsend/out-send/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.outsend/out-send)
-  🔑 - Find local businesses, enrich them with emails, socials and reviews, and run B2B lead pipelines.
+  🔓 - Find and enrich local businesses (emails, socials, reviews) and run B2B lead pipelines; tool calls need an API key.
 - [Plainrouter Sandbox](https://plainrouter.com/docs/mcp/setup) `https://plainrouter.com/mcp/sandbox`
   [![Plainrouter Sandbox MCP connector](https://glama.ai/mcp/connectors/com.plainrouter/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.plainrouter/mcp)
   🔓 - Test Meta advertising account, signal-health, and performance tools with synthetic data; no credentials required.
